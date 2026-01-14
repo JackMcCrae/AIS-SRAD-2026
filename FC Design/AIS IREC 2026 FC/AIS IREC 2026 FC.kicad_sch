@@ -6,8 +6,8 @@
 	(paper "A3")
 	(title_block
 		(title "AIS SRAD Flight Computer 2026")
-		(date "2026-01-11")
-		(rev "2")
+		(date "2026-01-14")
+		(rev "3")
 		(company "Strath AIS")
 	)
 	(lib_symbols
@@ -4909,6 +4909,211 @@
 				)
 			)
 		)
+		(symbol "SamacSys_Parts:DMN2008LFU-7"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 24.13 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "DMN2008LFU-7"
+				(at 24.13 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "DMN2008LFU7"
+				(at 24.13 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.diodes.com//assets/Datasheets/DMN2008LFU.pdf"
+				(at 24.13 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mosfet Array 20V 14.5A 1W Surface Mount U-DFN2030-6 (Type B) "
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "0.65"
+				(at 24.13 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "621-DMN2008LFU-7"
+				(at 24.13 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMN2008LFU-7?qs=rN85NNvew%2FTQdIKMMVh0MQ%3D%3D"
+				(at 24.13 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Diodes Incorporated"
+				(at 24.13 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "DMN2008LFU-7"
+				(at 24.13 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "DMN2008LFU-7_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 22.86 -7.62)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "S1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "G1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "G2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 27.94 0 180)
+					(length 5.08)
+					(name "S2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 27.94 -2.54 180)
+					(length 5.08)
+					(name "D1/D2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "SamacSys_Parts:DSC1001CL5-060.0000"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -9135,6 +9340,16 @@
 	)
 	(wire
 		(pts
+			(xy 336.55 40.64) (xy 340.36 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4901fa2b-d43d-482a-b180-1b7caac29ded")
+	)
+	(wire
+		(pts
 			(xy 49.53 27.94) (xy 53.34 27.94)
 		)
 		(stroke
@@ -9505,6 +9720,16 @@
 	)
 	(wire
 		(pts
+			(xy 368.3 35.56) (xy 372.11 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e6c36d1-85de-48b8-9142-26145d898041")
+	)
+	(wire
+		(pts
 			(xy 228.6 102.87) (xy 227.33 102.87)
 		)
 		(stroke
@@ -9775,6 +10000,16 @@
 	)
 	(wire
 		(pts
+			(xy 336.55 53.34) (xy 340.36 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a9201e6-90a0-43a5-b972-e0f6cd60fca3")
+	)
+	(wire
+		(pts
 			(xy 226.06 41.91) (xy 229.87 41.91)
 		)
 		(stroke
@@ -9782,6 +10017,16 @@
 			(type default)
 		)
 		(uuid "8b7a88bb-6d30-4b89-bbbe-0b80453cdd9e")
+	)
+	(wire
+		(pts
+			(xy 368.3 38.1) (xy 372.11 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b7ba279-70e8-4030-8e38-b9d8ad9d2983")
 	)
 	(wire
 		(pts
@@ -10075,6 +10320,16 @@
 	)
 	(wire
 		(pts
+			(xy 336.55 58.42) (xy 340.36 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0b1921e-6d0c-4ac1-bc32-1f4422c0e5e8")
+	)
+	(wire
+		(pts
 			(xy 50.8 242.57) (xy 50.8 254)
 		)
 		(stroke
@@ -10092,6 +10347,16 @@
 			(type default)
 		)
 		(uuid "b41e2def-011b-4f92-a9a5-2cd620fd26d8")
+	)
+	(wire
+		(pts
+			(xy 368.3 53.34) (xy 372.11 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4807932-ec38-48a7-a5dd-2477f80b9468")
 	)
 	(wire
 		(pts
@@ -10152,6 +10417,16 @@
 			(type default)
 		)
 		(uuid "b72b03d1-4171-45aa-b789-dfbc0d478044")
+	)
+	(wire
+		(pts
+			(xy 336.55 38.1) (xy 340.36 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b80a7dad-0fc6-4ba3-9188-483498943ea1")
 	)
 	(wire
 		(pts
@@ -10385,6 +10660,16 @@
 	)
 	(wire
 		(pts
+			(xy 368.3 55.88) (xy 372.11 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc98af84-526b-4619-9091-051094591a3b")
+	)
+	(wire
+		(pts
 			(xy 127 242.57) (xy 127 254)
 		)
 		(stroke
@@ -10452,6 +10737,16 @@
 			(type default)
 		)
 		(uuid "d4b69a59-18d1-4273-9c5d-f6d3890ca3e3")
+	)
+	(wire
+		(pts
+			(xy 336.55 35.56) (xy 340.36 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d560f7dc-cc5b-44c3-aed3-f5723d648b0a")
 	)
 	(wire
 		(pts
@@ -10552,6 +10847,16 @@
 			(type default)
 		)
 		(uuid "dccd945c-d273-40df-9958-a175ece50bdb")
+	)
+	(wire
+		(pts
+			(xy 336.55 55.88) (xy 340.36 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddb01cd2-da70-4ffa-b310-8e8ecb9feb5d")
 	)
 	(wire
 		(pts
@@ -10860,7 +11165,7 @@
 		(uuid 3722d357-a894-4da0-869e-4d335e36f6b6)
 	)
 	(rectangle
-		(start 29.21 82.55)
+		(start 24.13 82.55)
 		(end 60.96 120.65)
 		(stroke
 			(width 0)
@@ -10918,6 +11223,18 @@
 			(type none)
 		)
 		(uuid a1bdea34-22fd-43ef-b67c-4d9dd649c526)
+	)
+	(rectangle
+		(start 325.12 25.4)
+		(end 388.62 63.5)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid b151c954-4824-44bf-9040-dda3fbf9e808)
 	)
 	(rectangle
 		(start 167.64 157.48)
@@ -11086,6 +11403,16 @@
 			)
 		)
 		(uuid "c89fbcac-2d0d-4c99-82ff-17d71a66d4ab")
+	)
+	(text "Parachute Transsitors"
+		(exclude_from_sim no)
+		(at 355.6 22.352 0)
+		(effects
+			(font
+				(size 2 2)
+			)
+		)
+		(uuid "eadef9e5-0cbc-4482-8148-6a19b22c3575")
 	)
 	(global_label "WP"
 		(shape input)
@@ -11347,6 +11674,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VBAT"
+		(shape input)
+		(at 336.55 35.56 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "12ab3f00-2c01-4463-98bc-d7c59b890055")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 329.15 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -11747,6 +12096,28 @@
 			)
 		)
 	)
+	(global_label "VBAT"
+		(shape input)
+		(at 372.11 53.34 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "241cc923-0724-42e1-bc14-63ce07e3cb81")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 379.51 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "RE"
 		(shape input)
 		(at 86.36 124.46 180)
@@ -11809,6 +12180,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DROGUE"
+		(shape input)
+		(at 336.55 40.64 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2aac75b1-62e8-4a37-9cbb-a5e5ecbf7f16")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 325.9448 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -12464,6 +12857,28 @@
 		(uuid "5f559f3e-81fb-4dcb-99e6-0205d109817e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 50.8 208.0768 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VBAT"
+		(shape input)
+		(at 372.11 35.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "63460917-1fd5-4c28-9fd1-97b34434f51f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 379.51 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13201,6 +13616,28 @@
 	)
 	(global_label "MAIN"
 		(shape input)
+		(at 336.55 58.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9bceca3b-5a1c-4760-a0c4-642730ad88df")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 329.0895 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MAIN"
+		(shape input)
 		(at 86.36 83.82 180)
 		(fields_autoplaced yes)
 		(effects
@@ -13375,7 +13812,29 @@
 			)
 		)
 	)
-	(global_label "MAIN"
+	(global_label "MAIN OUT"
+		(shape input)
+		(at 372.11 55.88 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b2fd3bf6-2502-4a5c-bd40-fdc7956c7b45")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 384.1667 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MAIN OUT"
 		(shape input)
 		(at 40.64 101.6 180)
 		(fields_autoplaced yes)
@@ -13387,7 +13846,29 @@
 		)
 		(uuid "b3043c79-6c2d-4e09-8fb5-b6811085c006")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 33.1795 101.6 0)
+			(at 28.5833 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VBAT"
+		(shape input)
+		(at 336.55 53.34 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b737d710-0cb6-4708-9dc8-fff0e0446cb5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 329.15 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14123,6 +14604,28 @@
 			)
 		)
 	)
+	(global_label "DROGUE OUT"
+		(shape input)
+		(at 372.11 38.1 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "de4336f0-d6dd-4887-a8c6-646dd27f8066")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 387.3114 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "USB VBUS"
 		(shape input)
 		(at 189.23 57.15 180)
@@ -14207,6 +14710,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DROGUE"
+		(shape input)
+		(at 336.55 38.1 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e52a81ec-118e-492c-ae03-c2269efe84db")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 325.9448 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -14519,7 +15044,7 @@
 			)
 		)
 	)
-	(global_label "DROGUE"
+	(global_label "DROGUE OUT"
 		(shape input)
 		(at 40.64 114.3 180)
 		(fields_autoplaced yes)
@@ -14531,7 +15056,7 @@
 		)
 		(uuid "fa2b1eba-d054-4d41-9bae-ecfaa39707b1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 30.0348 114.3 0)
+			(at 25.4386 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14603,6 +15128,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MAIN"
+		(shape input)
+		(at 336.55 55.88 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fff74d21-5210-4bd1-b289-76a586e3fdae")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 329.0895 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -19718,6 +20265,135 @@
 		)
 	)
 	(symbol
+		(lib_id "SamacSys_Parts:DMN2008LFU-7")
+		(at 340.36 35.56 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d38a376f-a0c1-4a5c-86a7-3102a1b64693")
+		(property "Reference" "Q2"
+			(at 354.33 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "DMN2008LFU-7"
+			(at 354.33 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "DMN2008LFU7"
+			(at 364.49 130.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com//assets/Datasheets/DMN2008LFU.pdf"
+			(at 364.49 230.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mosfet Array 20V 14.5A 1W Surface Mount U-DFN2030-6 (Type B)"
+			(at 340.36 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.65"
+			(at 364.49 430.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "621-DMN2008LFU-7"
+			(at 364.49 530.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMN2008LFU-7?qs=rN85NNvew%2FTQdIKMMVh0MQ%3D%3D"
+			(at 364.49 630.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Diodes Incorporated"
+			(at 364.49 730.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "DMN2008LFU-7"
+			(at 364.49 830.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9c809796-09e6-42e7-a7de-a848cdff00d1")
+		)
+		(pin "4"
+			(uuid "11e65e71-0472-4cf5-af13-e7035a8d97a1")
+		)
+		(pin "5"
+			(uuid "9b191a25-1a89-43a1-9566-1c3a78946172")
+		)
+		(pin "3"
+			(uuid "90514121-da29-421f-ae19-2bd3672afa0b")
+		)
+		(pin "1"
+			(uuid "2ef44b1c-2b7c-412e-98bb-a468bb1903c2")
+		)
+		(instances
+			(project ""
+				(path "/bddf67fc-9eaf-4396-b5e1-b8d070d107e3"
+					(reference "Q2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "SamacSys_Parts:GRM033R61A225KE47D")
 		(at 127 276.86 0)
 		(unit 1)
@@ -19954,6 +20630,135 @@
 			(project ""
 				(path "/bddf67fc-9eaf-4396-b5e1-b8d070d107e3"
 					(reference "LS1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:DMN2008LFU-7")
+		(at 340.36 53.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e9dd3577-9c87-4b9f-8f18-35f8e1f713b4")
+		(property "Reference" "Q3"
+			(at 354.33 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "DMN2008LFU-7"
+			(at 354.33 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "DMN2008LFU7"
+			(at 364.49 148.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com//assets/Datasheets/DMN2008LFU.pdf"
+			(at 364.49 248.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mosfet Array 20V 14.5A 1W Surface Mount U-DFN2030-6 (Type B)"
+			(at 340.36 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.65"
+			(at 364.49 448.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "621-DMN2008LFU-7"
+			(at 364.49 548.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMN2008LFU-7?qs=rN85NNvew%2FTQdIKMMVh0MQ%3D%3D"
+			(at 364.49 648.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Diodes Incorporated"
+			(at 364.49 748.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "DMN2008LFU-7"
+			(at 364.49 848.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5f53a255-6f8e-4923-81a1-e9cbee7e04bb")
+		)
+		(pin "4"
+			(uuid "6a39a491-87f8-41a7-a844-cdae9337df0d")
+		)
+		(pin "5"
+			(uuid "68f55318-d00f-41ab-9a28-63a3338af6fb")
+		)
+		(pin "3"
+			(uuid "0c3ca169-bb61-40bb-a259-071f92244730")
+		)
+		(pin "1"
+			(uuid "349631f2-2f4b-4ff1-8b79-4b7acfbd61dd")
+		)
+		(instances
+			(project "AIS IREC 2026 FC"
+				(path "/bddf67fc-9eaf-4396-b5e1-b8d070d107e3"
+					(reference "Q3")
 					(unit 1)
 				)
 			)
