@@ -7,6 +7,12 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "AIS SRAD Flight Computer 2026")
+		(date "2026-01-16")
+		(rev "1")
+		(company "Strath AIS")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(1 "In1.Cu" signal)
@@ -300,7 +306,7 @@
 		(descr "GRM022")
 		(tags "Capacitor")
 		(property "Reference" "C26"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(uuid "6960ea22-f75c-4302-9cf5-ab9c1f5d1e77")
 			(effects
@@ -311,7 +317,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "0543f89b-2f9d-49aa-9598-bd5369606c0c")
@@ -323,7 +329,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:GRM022C81C222KE01L"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ba84fe2c-2141-44ff-ab68-4bb3a8649a4c")
@@ -335,7 +341,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM022R61A104KE01-01A.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f3eddc8c-6ea0-4dad-8d0b-0dc54aa6f245")
@@ -347,7 +353,7 @@
 			)
 		)
 		(property "Description" "Capacitor Ceramic Multilayer (MLCC)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "99974ae6-d109-4cf2-9803-342f13d8b1ff")
@@ -550,7 +556,7 @@
 			(uuid "f1f41444-0265-4150-b151-6a33d91ab092")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "8962c04c-a8c7-4457-9f39-9b1135251ee2")
 			(effects
@@ -1191,7 +1197,7 @@
 		(descr "GRM022")
 		(tags "Capacitor")
 		(property "Reference" "C12"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(uuid "a383acff-519b-4d7f-8106-3333e11a461c")
 			(effects
@@ -1202,7 +1208,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "08c34cb7-3809-40cd-8eef-3032ef4c9ecb")
@@ -1214,7 +1220,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:GRM022C81C222KE01L"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "719e097e-228d-4d0c-868d-3790fef05f92")
@@ -1226,7 +1232,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM022R61A104KE01-01A.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2011c331-9c1c-4bb0-9398-549bc61d851d")
@@ -1238,7 +1244,7 @@
 			)
 		)
 		(property "Description" "Capacitor Ceramic Multilayer (MLCC)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "425cab21-1666-47fb-9634-5e3c5ccb3830")
@@ -1441,7 +1447,7 @@
 			(uuid "2edcec48-b9e4-480a-a55f-c370d95f5b97")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "6f6d8d81-d2b9-49ca-ad9e-9dfa7a9117fc")
 			(effects
@@ -3686,7 +3692,7 @@
 		(descr "SOT-23")
 		(tags "Transistor BJT PNP")
 		(property "Reference" "Q1"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(uuid "2e702a74-d756-4e11-8c54-13839c6ccf32")
 			(effects
@@ -3697,7 +3703,7 @@
 			)
 		)
 		(property "Value" "MMBT3906-TP"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "52c522ee-290d-48c6-8017-7f0915e32d8a")
@@ -3709,7 +3715,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:SOT95P237X125-3N"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f48c9ce4-bd17-4103-9100-a013be5a4a19")
@@ -3721,7 +3727,7 @@
 			)
 		)
 		(property "Datasheet" "https://mccsemi.com/pdf/Products/MMBT3906(SOT-23).pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fba7e454-546b-4154-9fb7-b7fc7bfff4a8")
@@ -3733,7 +3739,7 @@
 			)
 		)
 		(property "Description" "Small Signal Bipolar Transistors"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d8768c40-7266-410a-9966-e2dc9ec5d965")
@@ -3954,7 +3960,7 @@
 			(uuid "164ad8ec-a3c4-4dc7-9839-412cf49c38e3")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "00f5f39f-96b7-447a-9809-c3771de37a8d")
 			(effects
@@ -4010,7 +4016,7 @@
 		(descr "LGA-8")
 		(tags "lga land grid array")
 		(property "Reference" "U5"
-			(at 0 -3.65 360)
+			(at 0 -3.65 0)
 			(layer "F.SilkS")
 			(uuid "24d1390d-a207-4f87-ab47-14b3584ba7a1")
 			(effects
@@ -4021,7 +4027,7 @@
 			)
 		)
 		(property "Value" "MS5607-02BA"
-			(at 0 3.65 360)
+			(at 0 3.65 0)
 			(layer "F.Fab")
 			(uuid "94eaaf5d-a89a-4007-b704-a2ac046cce34")
 			(effects
@@ -4248,7 +4254,7 @@
 			(uuid "d472dede-9c51-4dc4-a563-1510ce7fce90")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "24b391a9-e3e2-410a-a514-04d08b3ded55")
 			(effects
@@ -4646,7 +4652,7 @@
 		(descr "GRM022")
 		(tags "Capacitor")
 		(property "Reference" "C25"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(uuid "a1adb92d-2607-470b-aba0-2b6fbb35b2c9")
 			(effects
@@ -4657,7 +4663,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "6fd91c43-78cc-4d76-9c65-efefa2c17dd9")
@@ -4669,7 +4675,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:GRM022C81C222KE01L"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ebc2725d-5a64-458c-95c4-19696f9100fb")
@@ -4681,7 +4687,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM022R61A104KE01-01A.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ecbbfce9-4144-4e63-9d8f-8e135863c6fb")
@@ -4693,7 +4699,7 @@
 			)
 		)
 		(property "Description" "Capacitor Ceramic Multilayer (MLCC)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "835d54b3-1aaf-4f09-86a8-3ad4a047ec68")
@@ -4896,7 +4902,7 @@
 			(uuid "fbbdd489-1630-4f8a-a2e0-a3cc224df31a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "02af1518-31cf-45b1-ae27-2b3873d6baa4")
 			(effects
@@ -4943,7 +4949,7 @@
 		(descr "A5_2021")
 		(tags "Capacitor Polarised")
 		(property "Reference" "C23"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(uuid "66f94ae3-6a78-4d61-9050-573743fea486")
 			(effects
@@ -4954,7 +4960,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "31d5249a-585c-4b52-8100-ef2b8211bae5")
@@ -4966,7 +4972,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:10SVPS10M"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "49c66df1-4c3e-4066-beef-d6e5ad8e5a33")
@@ -4978,7 +4984,7 @@
 			)
 		)
 		(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/AAB8000/AAB8000C232.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f07634fe-ba45-4821-b55a-7b87b85df70d")
@@ -4990,7 +4996,7 @@
 			)
 		)
 		(property "Description" "Aluminum - Polymer Capacitors Radial, Can - SMD 220mOhm 5000 Hrs @ 105C"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7a93322a-1253-4f48-b932-77d987d8be4f")
@@ -5294,7 +5300,7 @@
 			(uuid "2e1c50ad-3b0e-4c4d-911a-cfbe24bbf02f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "2dab0079-1878-47c6-95f6-2103e507b70d")
 			(effects
@@ -5341,7 +5347,7 @@
 		(descr "GRM022")
 		(tags "Capacitor")
 		(property "Reference" "C6"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(uuid "bd8f8568-1c4d-46f0-91e5-97fafa9e54fe")
 			(effects
@@ -5352,7 +5358,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "08bb9143-6dc5-48d7-8ede-d0078940bdfa")
@@ -5364,7 +5370,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:GRM022C81C222KE01L"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1010b902-4333-4c73-882f-7bc788d8495c")
@@ -5376,7 +5382,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM022R61A104KE01-01A.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b2ac8448-1dc8-4102-88d5-171d86be9253")
@@ -5388,7 +5394,7 @@
 			)
 		)
 		(property "Description" "Capacitor Ceramic Multilayer (MLCC)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b2af1846-130d-43dd-88aa-cca24e1ee1f9")
@@ -5591,7 +5597,7 @@
 			(uuid "eecfac2f-e0e9-4df6-a477-a5dda2ab157a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "a307f6b9-9e00-4b68-a2b5-fef8bfb778e5")
 			(effects
@@ -5638,7 +5644,7 @@
 		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R5"
-			(at 0 -1.05 360)
+			(at 0 -1.05 0)
 			(layer "F.SilkS")
 			(uuid "af754f7c-ead6-4960-b8e4-0d1ff39d83f4")
 			(effects
@@ -5649,7 +5655,7 @@
 			)
 		)
 		(property "Value" "10KR"
-			(at 0 1.05 360)
+			(at 0 1.05 0)
 			(layer "F.Fab")
 			(uuid "daadf75e-c631-462f-b729-89d771bc7806")
 			(effects
@@ -5784,7 +5790,7 @@
 			(uuid "4e8e02fd-1878-4c9e-81f5-24d80045b73b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -0.68 360)
+			(at 0 -0.68 0)
 			(layer "F.Fab")
 			(uuid "ae6d7b72-3e4d-4187-8b22-2306aaab6730")
 			(effects
@@ -6142,7 +6148,7 @@
 		(descr "EBAA-02-C-1")
 		(tags "Connector")
 		(property "Reference" "J2"
-			(at 2.15 -0.5 360)
+			(at 2.15 -0.5 0)
 			(layer "F.SilkS")
 			(uuid "e0308eee-fe1d-4643-bf25-721bf8d1ee70")
 			(effects
@@ -6153,7 +6159,7 @@
 			)
 		)
 		(property "Value" "EBAA-02-C"
-			(at 2.15 -0.5 360)
+			(at 2.15 -0.5 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "5856e91f-8817-442a-9ccd-38d7101ff5e6")
@@ -6165,7 +6171,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:EBAA02C"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "34d628dd-d91b-43d5-aa4c-08c9da6cbc9c")
@@ -6177,7 +6183,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "38a10b33-1522-44b1-99df-340dea287c58")
@@ -6189,7 +6195,7 @@
 			)
 		)
 		(property "Description" "2 Position Wire to Board Terminal Block Horizontal with Board 0.197\" (5.00mm) Through Hole"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8e9a9606-eee3-47b7-b394-b0171f9526aa")
@@ -6492,7 +6498,7 @@
 			(uuid "997094cc-074c-40b4-9d08-b1a8abf71a2a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.15 -0.5 360)
+			(at 2.15 -0.5 0)
 			(layer "F.Fab")
 			(uuid "59cfc45c-99be-4021-b617-dd31827efa52")
 			(effects
@@ -9302,7 +9308,7 @@
 		(descr "GRM022")
 		(tags "Capacitor")
 		(property "Reference" "C13"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(uuid "2b4885c4-eb20-4a4c-a5f2-d12871b41092")
 			(effects
@@ -9313,7 +9319,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "a7a33cc5-f22a-4462-86a4-9f9a322a1dd1")
@@ -9325,7 +9331,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:GRM022C81C222KE01L"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a0c6fd10-ae64-4e9a-8f90-66e715d31f00")
@@ -9337,7 +9343,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM022R61A104KE01-01A.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "75554e8e-ebbd-494f-929b-7012e62085f9")
@@ -9349,7 +9355,7 @@
 			)
 		)
 		(property "Description" "Capacitor Ceramic Multilayer (MLCC)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cd3c086f-a26c-4aa8-93be-60dd1a4ccfa2")
@@ -9552,7 +9558,7 @@
 			(uuid "8c758934-0e96-486d-88e3-867bb2805bbb")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "de0345ca-d6be-4f34-987f-003bf5b53826")
 			(effects
@@ -10297,7 +10303,7 @@
 		(descr "GRM03")
 		(tags "Capacitor")
 		(property "Reference" "C19"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(uuid "7f2f6294-56bb-4663-9967-83540f6d0855")
 			(effects
@@ -10308,7 +10314,7 @@
 			)
 		)
 		(property "Value" "2.2uF"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "e17e46f1-ad90-4c26-9cd4-cf8708411643")
@@ -10320,7 +10326,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:GRM033D70J224ME01D"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8d0dfa98-ef20-4f4f-a065-ce0997f7fe7b")
@@ -10332,7 +10338,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R61A225KE47-04A.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "dc034041-9e13-4cfe-9217-15bb3cf36a3d")
@@ -10344,7 +10350,7 @@
 			)
 		)
 		(property "Description" "Multilayer Ceramic Capacitors MLCC - SMD/SMT 0201 2.2uF 10volts *Derate Voltage/Temp"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f3f8d236-8272-45a4-a936-428fdaf6a4c4")
@@ -10547,7 +10553,7 @@
 			(uuid "23a59c0e-20f9-4b4c-8d54-b519275e2097")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "4d0c9722-c00f-4db4-8230-89ffbd437139")
 			(effects
@@ -10860,7 +10866,7 @@
 		(descr "GRT03 L=0.6mm W=0.3mm T=0.3mm")
 		(tags "Capacitor")
 		(property "Reference" "C28"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(uuid "be09de22-a3cb-402a-9cef-f8eda8a8deab")
 			(effects
@@ -10872,7 +10878,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "78015cee-ed8c-4b9e-9978-8a62043a55d1")
@@ -10885,7 +10891,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:CAPC0603X33N"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "bb283ecd-dc4e-4b61-a582-9463a2728294")
@@ -10898,7 +10904,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT033R60J105ME13-01A.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "fa62b0e1-9d55-475b-baa5-e0fd07cbc5cd")
@@ -10911,7 +10917,7 @@
 			)
 		)
 		(property "Description" "Capacitor GRT03 L=0.6mm W=0.3mm T=0.3mm"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "9402649c-0365-4654-b0f9-45d305a64d2b")
@@ -11078,7 +11084,7 @@
 			(uuid "1fbdd302-6d6c-4c36-8500-3bd511db510e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "0699acec-0341-4093-b80e-aaf6d95b6ca5")
 			(effects
@@ -11434,7 +11440,7 @@
 		(descr "GRM022")
 		(tags "Capacitor")
 		(property "Reference" "C8"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(uuid "fdccbe5b-5053-4e37-9662-dc3eb390ec83")
 			(effects
@@ -11446,7 +11452,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "1134f317-70bd-4b17-a9cb-782253b10409")
@@ -11459,7 +11465,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:GRM022C81C222KE01L"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "cfb7f95b-f5ae-4631-ad54-0d4fca8d8d40")
@@ -11472,7 +11478,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM022R61A104KE01-01A.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "9f1e7529-4114-4ab4-b927-56ef73f4822b")
@@ -11485,7 +11491,7 @@
 			)
 		)
 		(property "Description" "Capacitor Ceramic Multilayer (MLCC)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "e13d2648-fa22-4ee2-b278-2dd58ad5320e")
@@ -11694,7 +11700,7 @@
 			(uuid "e5cf7a50-471f-493b-bde7-8af401a889bf")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "89a135ce-7cf9-4182-8245-75ac34226311")
 			(effects
@@ -12358,7 +12364,7 @@
 		(descr "GRM022")
 		(tags "Capacitor")
 		(property "Reference" "C1"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(uuid "73275d21-0386-4707-9bd9-c90e887d6d43")
 			(effects
@@ -12370,7 +12376,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "052b0eff-0436-44c9-bf95-6b01925c0f3f")
@@ -12383,7 +12389,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:GRM022C81C222KE01L"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "121c1c64-6b0a-4aed-9080-4e0d932792ae")
@@ -12396,7 +12402,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM022R61A104KE01-01A.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "e0cf21b8-d726-4144-9d46-935b48ee5379")
@@ -12409,7 +12415,7 @@
 			)
 		)
 		(property "Description" "Capacitor Ceramic Multilayer (MLCC)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "6fdbaf6b-9be9-4403-93d0-611625e2467a")
@@ -12618,7 +12624,7 @@
 			(uuid "14bb793f-f820-4030-82e1-6b05fe7b8b49")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "42a4979c-1912-48a4-af32-0594fab87056")
 			(effects
@@ -13343,7 +13349,7 @@
 		(descr "GRT03 L=0.6mm W=0.3mm T=0.3mm")
 		(tags "Capacitor")
 		(property "Reference" "C21"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(uuid "6e4f509d-8865-47c9-83ff-aaf6882077e9")
 			(effects
@@ -13355,7 +13361,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "bd2cbe37-c57c-4441-a89d-684b617f8e52")
@@ -13368,7 +13374,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:CAPC0603X33N"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "0d121922-ceba-44bf-928b-f7c588f66cf0")
@@ -13381,7 +13387,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT033R60J105ME13-01A.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ba8fd1d1-eecb-484c-a76c-0dcb8003597f")
@@ -13394,7 +13400,7 @@
 			)
 		)
 		(property "Description" "Capacitor GRT03 L=0.6mm W=0.3mm T=0.3mm"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "84e50663-9d20-4723-aeb6-a69a505c8904")
@@ -13561,7 +13567,7 @@
 			(uuid "6adbf991-8d00-401a-8536-15c1542912df")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "eb84c31f-a0b1-45e5-b1b6-b3ad1f364992")
 			(effects
@@ -14510,7 +14516,7 @@
 		(descr "GRM022")
 		(tags "Capacitor")
 		(property "Reference" "C5"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(uuid "775a10c4-127b-42a5-898d-e500157e8066")
 			(effects
@@ -14522,7 +14528,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "f699b259-3f24-40c6-b420-0e3f80874c2b")
@@ -14535,7 +14541,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:GRM022C81C222KE01L"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "fb551212-a59b-433a-b7a3-6082562d2588")
@@ -14548,7 +14554,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM022R61A104KE01-01A.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "7e8732c5-f43b-4c48-a957-4ab1603c23a8")
@@ -14561,7 +14567,7 @@
 			)
 		)
 		(property "Description" "Capacitor Ceramic Multilayer (MLCC)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "3173abe0-4808-4e6a-bd6f-ca06d1554073")
@@ -14770,7 +14776,7 @@
 			(uuid "2e94a41d-ce81-4ee0-989e-d943c9ba7456")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "93870b9b-55a8-4ae1-921b-f2285c08996e")
 			(effects
@@ -15771,7 +15777,7 @@
 		(descr "GRM03")
 		(tags "Capacitor")
 		(property "Reference" "C20"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(uuid "9fdcde0a-3bb0-404c-be99-be7c0dc4b2a5")
 			(effects
@@ -15783,7 +15789,7 @@
 			)
 		)
 		(property "Value" "4.7uF"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "cc8ccc23-5edd-4d6a-b723-1fb4738446d6")
@@ -15796,7 +15802,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:GRM033D70J224ME01D"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "1dbfc913-2674-4b2a-9dcd-a01777cf1b3a")
@@ -15809,7 +15815,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM035R60J475ME15-01A.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "50be6233-1eab-486a-9075-4a39d45c8b34")
@@ -15822,7 +15828,7 @@
 			)
 		)
 		(property "Description" "Multilayer Ceramic Capacitors MLCC - SMD/SMT 0201 4.7uF 6.3volts *Derate Voltage/Temp"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "87533004-d80f-46dd-95a0-ffbc564263af")
@@ -16031,7 +16037,7 @@
 			(uuid "84da6a5e-c0d4-439a-9724-3e6cbc6351c6")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "5e4634d1-c592-43b9-96f4-c472a755fe9f")
 			(effects
@@ -16387,7 +16393,7 @@
 		(descr "GRM022")
 		(tags "Capacitor")
 		(property "Reference" "C4"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(uuid "aa5c6612-831c-4832-a43d-b6b8cc8fbeab")
 			(effects
@@ -16399,7 +16405,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "96b0bbce-bba7-4ba3-9179-16375ba43b07")
@@ -16412,7 +16418,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:GRM022C81C222KE01L"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "31bbb89d-b343-46f0-8c2d-c663a8339b78")
@@ -16425,7 +16431,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM022R61A104KE01-01A.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "7971246e-cc91-4eee-8b45-28cfd97dc0ab")
@@ -16438,7 +16444,7 @@
 			)
 		)
 		(property "Description" "Capacitor Ceramic Multilayer (MLCC)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "7e90bfdf-e7f8-40fb-8d4b-6c13010c3a04")
@@ -16647,7 +16653,7 @@
 			(uuid "cf5fcfd7-2e28-49ca-ad9e-61895c47e0c4")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "1ea66ce9-5a51-4dde-876e-737c9abfb5f2")
 			(effects
@@ -16695,7 +16701,7 @@
 		(descr "GRM022")
 		(tags "Capacitor")
 		(property "Reference" "C2"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(uuid "819c56d7-6662-4e90-b74d-9c057963815b")
 			(effects
@@ -16707,7 +16713,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "ef42a93f-c942-417d-acdc-35707d84bbaf")
@@ -16720,7 +16726,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:GRM022C81C222KE01L"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "208ba763-7348-4b40-9c7e-2a54f69b376c")
@@ -16733,7 +16739,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM022R61A104KE01-01A.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "7f52818a-92b8-4cb5-ae2d-fc3d90c90419")
@@ -16746,7 +16752,7 @@
 			)
 		)
 		(property "Description" "Capacitor Ceramic Multilayer (MLCC)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "15b2fc7a-7984-495d-a4f4-25dbca1cd828")
@@ -16955,7 +16961,7 @@
 			(uuid "01029844-3708-44cd-8750-57b0e2832448")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "0d6d2c8e-f259-45ec-a746-4a3cdcb54475")
 			(effects
@@ -17311,7 +17317,7 @@
 		(descr "GRM022")
 		(tags "Capacitor")
 		(property "Reference" "C3"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(uuid "a4a80659-de21-47b3-bf43-d0a1616c6d7d")
 			(effects
@@ -17323,7 +17329,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "bd659f48-5e64-488a-9e3f-b4945e331d55")
@@ -17336,7 +17342,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:GRM022C81C222KE01L"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "e8b12368-ac1d-4ba3-8701-64c5c190f98d")
@@ -17349,7 +17355,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM022R61A104KE01-01A.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "6625d088-8e61-4d98-a318-8442c114f4d0")
@@ -17362,7 +17368,7 @@
 			)
 		)
 		(property "Description" "Capacitor Ceramic Multilayer (MLCC)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "42f35dec-cad3-4689-8e81-70a057d8c1a4")
@@ -17571,7 +17577,7 @@
 			(uuid "2b4fa2c6-cf29-4ae0-b6fb-16bca864a99c")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "04b64c3b-f4fc-45ea-a669-d5ae4839686f")
 			(effects
@@ -17876,7 +17882,7 @@
 		(descr "GRM022")
 		(tags "Capacitor")
 		(property "Reference" "C11"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(uuid "dabdb05a-e398-4811-8ad1-0228a5648069")
 			(effects
@@ -17888,7 +17894,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "9e61a0f0-edaa-485b-86c6-d08b271e7a60")
@@ -17901,7 +17907,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:GRM022C81C222KE01L"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "0c46e72a-6b8e-4653-8de6-0d14d8c0dd79")
@@ -17914,7 +17920,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM022R61A104KE01-01A.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "cfc107f1-d065-4e18-ab36-5e84dd27c2f3")
@@ -17927,7 +17933,7 @@
 			)
 		)
 		(property "Description" "Capacitor Ceramic Multilayer (MLCC)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "acb52232-8f0f-404e-88e9-8266ef527980")
@@ -18136,7 +18142,7 @@
 			(uuid "b6f7bf26-a37b-462b-95ba-9ad6fe004881")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "0a0c3adb-fae3-4779-9cfe-eb5cba345006")
 			(effects
