@@ -8908,6 +8908,16 @@
 	)
 	(wire
 		(pts
+			(xy 49.53 27.94) (xy 53.34 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1770d68f-7faf-4d1f-9c29-618b5dd11d86")
+	)
+	(wire
+		(pts
 			(xy 137.16 83.82) (xy 142.24 83.82)
 		)
 		(stroke
@@ -9378,7 +9388,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 27.94) (xy 53.34 27.94)
+			(xy 49.53 25.4) (xy 53.34 25.4)
 		)
 		(stroke
 			(width 0)
@@ -11271,7 +11281,7 @@
 		(uuid 8a06e6d1-7d5e-4f8b-a121-d34a779a59ee)
 	)
 	(rectangle
-		(start 29.21 25.4)
+		(start 29.21 24.13)
 		(end 60.96 36.83)
 		(stroke
 			(width 0)
@@ -11344,7 +11354,7 @@
 	)
 	(text "Label Connections"
 		(exclude_from_sim no)
-		(at 44.704 23.876 0)
+		(at 44.704 22.352 0)
 		(effects
 			(font
 				(size 2 2)
@@ -12638,6 +12648,28 @@
 			)
 		)
 	)
+	(global_label "Noise Capacitors 1.8V"
+		(shape input)
+		(at 49.53 27.94 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "412130d0-4778-4063-b089-cfd9be4893fb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 25.1968 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Noise Capacitors"
 		(shape input)
 		(at 49.53 30.48 180)
@@ -13586,7 +13618,7 @@
 	)
 	(global_label "3.3V"
 		(shape input)
-		(at 53.34 27.94 0)
+		(at 53.34 25.4 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13596,7 +13628,7 @@
 		)
 		(uuid "8f9b82c0-7554-4c3b-bdd7-3f17e3c3b36a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 60.4376 27.94 0)
+			(at 60.4376 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13894,7 +13926,7 @@
 	)
 	(global_label "VBAT"
 		(shape input)
-		(at 49.53 27.94 180)
+		(at 49.53 25.4 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13904,7 +13936,7 @@
 		)
 		(uuid "a381dbce-f61c-4a5a-b9ad-7d6149b8989d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 42.13 27.94 0)
+			(at 42.13 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14279,6 +14311,28 @@
 		(uuid "c62daa36-3de9-4129-9db6-a4fa652aefb0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 239.5076 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "1.8V"
+		(shape input)
+		(at 53.34 27.94 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c74d42d9-08ad-4b9b-9299-539ae368c59a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 60.4376 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
