@@ -8898,7 +8898,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 104.14) (xy 43.18 104.14)
+			(xy 40.64 105.41) (xy 43.18 105.41)
 		)
 		(stroke
 			(width 0)
@@ -8908,7 +8908,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 27.94) (xy 53.34 27.94)
+			(xy 49.53 29.21) (xy 53.34 29.21)
 		)
 		(stroke
 			(width 0)
@@ -8998,7 +8998,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 91.44) (xy 43.18 91.44)
+			(xy 40.64 92.71) (xy 43.18 92.71)
 		)
 		(stroke
 			(width 0)
@@ -9018,7 +9018,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 140.97) (xy 44.45 143.51)
+			(xy 44.45 142.24) (xy 44.45 144.78)
 		)
 		(stroke
 			(width 0)
@@ -9388,7 +9388,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 25.4) (xy 53.34 25.4)
+			(xy 49.53 26.67) (xy 53.34 26.67)
 		)
 		(stroke
 			(width 0)
@@ -9398,7 +9398,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 57.15) (xy 40.64 57.15)
+			(xy 27.94 58.42) (xy 40.64 58.42)
 		)
 		(stroke
 			(width 0)
@@ -9438,7 +9438,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 116.84) (xy 43.18 116.84)
+			(xy 40.64 118.11) (xy 43.18 118.11)
 		)
 		(stroke
 			(width 0)
@@ -9488,7 +9488,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 49.53) (xy 52.07 49.53)
+			(xy 48.26 50.8) (xy 52.07 50.8)
 		)
 		(stroke
 			(width 0)
@@ -9548,7 +9548,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 101.6) (xy 43.18 101.6)
+			(xy 40.64 102.87) (xy 43.18 102.87)
 		)
 		(stroke
 			(width 0)
@@ -9658,7 +9658,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 140.97) (xy 41.91 143.51)
+			(xy 41.91 142.24) (xy 41.91 144.78)
 		)
 		(stroke
 			(width 0)
@@ -9888,7 +9888,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 49.53) (xy 33.02 49.53)
+			(xy 27.94 50.8) (xy 33.02 50.8)
 		)
 		(stroke
 			(width 0)
@@ -9908,7 +9908,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 114.3) (xy 43.18 114.3)
+			(xy 40.64 115.57) (xy 43.18 115.57)
 		)
 		(stroke
 			(width 0)
@@ -10058,7 +10058,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 140.97) (xy 49.53 143.51)
+			(xy 49.53 142.24) (xy 49.53 144.78)
 		)
 		(stroke
 			(width 0)
@@ -10088,7 +10088,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 140.97) (xy 39.37 143.51)
+			(xy 39.37 142.24) (xy 39.37 144.78)
 		)
 		(stroke
 			(width 0)
@@ -10118,7 +10118,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 140.97) (xy 57.15 143.51)
+			(xy 57.15 142.24) (xy 57.15 144.78)
 		)
 		(stroke
 			(width 0)
@@ -10138,7 +10138,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 140.97) (xy 54.61 143.51)
+			(xy 54.61 142.24) (xy 54.61 144.78)
 		)
 		(stroke
 			(width 0)
@@ -10258,7 +10258,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 64.77) (xy 52.07 64.77)
+			(xy 48.26 66.04) (xy 52.07 66.04)
 		)
 		(stroke
 			(width 0)
@@ -10278,7 +10278,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 72.39) (xy 40.64 72.39)
+			(xy 27.94 73.66) (xy 40.64 73.66)
 		)
 		(stroke
 			(width 0)
@@ -10528,7 +10528,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 34.29) (xy 53.34 34.29)
+			(xy 49.53 35.56) (xy 53.34 35.56)
 		)
 		(stroke
 			(width 0)
@@ -10658,7 +10658,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 140.97) (xy 46.99 143.51)
+			(xy 46.99 142.24) (xy 46.99 144.78)
 		)
 		(stroke
 			(width 0)
@@ -10858,7 +10858,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 30.48) (xy 53.34 30.48)
+			(xy 49.53 31.75) (xy 53.34 31.75)
 		)
 		(stroke
 			(width 0)
@@ -10928,7 +10928,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 88.9) (xy 43.18 88.9)
+			(xy 40.64 90.17) (xy 43.18 90.17)
 		)
 		(stroke
 			(width 0)
@@ -11138,7 +11138,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 140.97) (xy 52.07 143.51)
+			(xy 52.07 142.24) (xy 52.07 144.78)
 		)
 		(stroke
 			(width 0)
@@ -11168,7 +11168,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 64.77) (xy 33.02 64.77)
+			(xy 27.94 66.04) (xy 33.02 66.04)
 		)
 		(stroke
 			(width 0)
@@ -11197,8 +11197,8 @@
 		(uuid "fe3e390e-b0f8-436b-9bb6-69a020164d60")
 	)
 	(rectangle
-		(start 20.32 41.91)
-		(end 60.96 74.93)
+		(start 20.32 43.18)
+		(end 60.96 76.2)
 		(stroke
 			(width 0)
 			(type default)
@@ -11233,8 +11233,8 @@
 		(uuid 3722d357-a894-4da0-869e-4d335e36f6b6)
 	)
 	(rectangle
-		(start 24.13 82.55)
-		(end 60.96 120.65)
+		(start 24.13 83.82)
+		(end 60.96 121.92)
 		(stroke
 			(width 0)
 			(type default)
@@ -11281,8 +11281,8 @@
 		(uuid 8a06e6d1-7d5e-4f8b-a121-d34a779a59ee)
 	)
 	(rectangle
-		(start 29.21 24.13)
-		(end 60.96 36.83)
+		(start 29.21 25.4)
+		(end 60.96 38.1)
 		(stroke
 			(width 0)
 			(type default)
@@ -11329,8 +11329,8 @@
 		(uuid e8082c0e-a298-49b4-9e45-ae3e30c76024)
 	)
 	(rectangle
-		(start 35.56 128.27)
-		(end 60.96 156.21)
+		(start 35.56 129.54)
+		(end 60.96 157.48)
 		(stroke
 			(width 0)
 			(type default)
@@ -11354,7 +11354,7 @@
 	)
 	(text "Label Connections"
 		(exclude_from_sim no)
-		(at 44.704 22.352 0)
+		(at 44.704 23.622 0)
 		(effects
 			(font
 				(size 2 2)
@@ -11374,7 +11374,7 @@
 	)
 	(text "Voltage Regulators"
 		(exclude_from_sim no)
-		(at 40.64 39.878 0)
+		(at 40.64 41.148 0)
 		(effects
 			(font
 				(size 2 2)
@@ -11394,7 +11394,7 @@
 	)
 	(text "Battery and\nParachute Connectors"
 		(exclude_from_sim no)
-		(at 45.212 79.248 0)
+		(at 45.212 80.518 0)
 		(effects
 			(font
 				(size 2 2)
@@ -11434,7 +11434,7 @@
 	)
 	(text "Radio/Boot\nConnector"
 		(exclude_from_sim no)
-		(at 48.514 125.222 0)
+		(at 48.514 126.492 0)
 		(effects
 			(font
 				(size 2 2)
@@ -11638,7 +11638,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 27.94 57.15 180)
+		(at 27.94 58.42 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11648,7 +11648,7 @@
 		)
 		(uuid "0f6279da-63fa-4320-8a1f-2060cda40e49")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 21.0843 57.15 0)
+			(at 21.0843 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11946,7 +11946,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 27.94 72.39 180)
+		(at 27.94 73.66 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11956,7 +11956,7 @@
 		)
 		(uuid "1e583419-c21a-4e70-9efc-42910c60cbee")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 21.0843 72.39 0)
+			(at 21.0843 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11968,7 +11968,7 @@
 	)
 	(global_label "3.3V"
 		(shape input)
-		(at 52.07 49.53 0)
+		(at 52.07 50.8 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11978,7 +11978,7 @@
 		)
 		(uuid "1ed34e4e-05cd-45da-a2cf-ab0c91bf33a4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 59.1676 49.53 0)
+			(at 59.1676 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12166,7 +12166,7 @@
 	)
 	(global_label "Vsrc"
 		(shape input)
-		(at 27.94 64.77 180)
+		(at 27.94 66.04 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12176,7 +12176,7 @@
 		)
 		(uuid "281c7830-29fc-4ee1-b851-5f2cd15a46f1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.9633 64.77 0)
+			(at 20.9633 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12452,7 +12452,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 53.34 34.29 0)
+		(at 53.34 35.56 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12462,7 +12462,7 @@
 		)
 		(uuid "319ec991-314f-449e-818f-a42f1ee878d0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 60.1957 34.29 0)
+			(at 60.1957 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12650,7 +12650,7 @@
 	)
 	(global_label "Noise Capacitors 1.8V"
 		(shape input)
-		(at 49.53 27.94 180)
+		(at 49.53 29.21 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12660,7 +12660,7 @@
 		)
 		(uuid "412130d0-4778-4063-b089-cfd9be4893fb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 25.1968 27.94 0)
+			(at 25.1968 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12672,7 +12672,7 @@
 	)
 	(global_label "Noise Capacitors"
 		(shape input)
-		(at 49.53 30.48 180)
+		(at 49.53 31.75 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12682,7 +12682,7 @@
 		)
 		(uuid "436ff53e-725b-47f0-b057-7eb19628405d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 30.2768 30.48 0)
+			(at 30.2768 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12738,7 +12738,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 49.53 140.97 90)
+		(at 49.53 142.24 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12748,7 +12748,7 @@
 		)
 		(uuid "46836b68-0d63-454e-b99e-b26ecb8f8f53")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 49.53 134.1143 90)
+			(at 49.53 135.3843 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12782,7 +12782,7 @@
 	)
 	(global_label "Capacitor Ground"
 		(shape input)
-		(at 49.53 34.29 180)
+		(at 49.53 35.56 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12792,7 +12792,7 @@
 		)
 		(uuid "4c91f480-75a2-4a3e-8eac-397482fb1279")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.8537 34.29 0)
+			(at 29.8537 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13244,7 +13244,7 @@
 	)
 	(global_label "Vsrc"
 		(shape input)
-		(at 40.64 88.9 180)
+		(at 40.64 90.17 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13254,7 +13254,7 @@
 		)
 		(uuid "71f7aca9-437c-4e36-8433-c7d966a5bf93")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 33.6633 88.9 0)
+			(at 33.6633 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13376,7 +13376,7 @@
 	)
 	(global_label "VBAT"
 		(shape input)
-		(at 52.07 140.97 90)
+		(at 52.07 142.24 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13386,7 +13386,7 @@
 		)
 		(uuid "7e96cc1d-94b1-4838-a4d3-aeb286c65947")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 52.07 133.57 90)
+			(at 52.07 134.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13398,7 +13398,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 40.64 104.14 180)
+		(at 40.64 105.41 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13408,7 +13408,7 @@
 		)
 		(uuid "7f068aad-1c90-4942-90d9-2970cd09b3c6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 33.7843 104.14 0)
+			(at 33.7843 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13618,7 +13618,7 @@
 	)
 	(global_label "3.3V"
 		(shape input)
-		(at 53.34 25.4 0)
+		(at 53.34 26.67 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13628,7 +13628,7 @@
 		)
 		(uuid "8f9b82c0-7554-4c3b-bdd7-3f17e3c3b36a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 60.4376 25.4 0)
+			(at 60.4376 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13706,7 +13706,7 @@
 	)
 	(global_label "3.3V"
 		(shape input)
-		(at 54.61 140.97 90)
+		(at 54.61 142.24 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13716,7 +13716,7 @@
 		)
 		(uuid "98c3285e-c23b-46e6-821b-cd037e54b82a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 54.61 133.8724 90)
+			(at 54.61 135.1424 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13750,7 +13750,7 @@
 	)
 	(global_label "Vsrc"
 		(shape input)
-		(at 27.94 49.53 180)
+		(at 27.94 50.8 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13760,7 +13760,7 @@
 		)
 		(uuid "99fffa94-d579-4d21-a5b8-c899948da8b3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.9633 49.53 0)
+			(at 20.9633 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13772,7 +13772,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 40.64 116.84 180)
+		(at 40.64 118.11 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13782,7 +13782,7 @@
 		)
 		(uuid "9a669cbf-68b0-4ef1-b2ad-8e450b086fe2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 33.7843 116.84 0)
+			(at 33.7843 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13926,7 +13926,7 @@
 	)
 	(global_label "VBAT"
 		(shape input)
-		(at 49.53 25.4 180)
+		(at 49.53 26.67 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13936,7 +13936,7 @@
 		)
 		(uuid "a381dbce-f61c-4a5a-b9ad-7d6149b8989d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 42.13 25.4 0)
+			(at 42.13 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14014,7 +14014,7 @@
 	)
 	(global_label "MAIN OUT"
 		(shape input)
-		(at 40.64 101.6 180)
+		(at 40.64 102.87 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14024,7 +14024,7 @@
 		)
 		(uuid "b3043c79-6c2d-4e09-8fb5-b6811085c006")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 28.5833 101.6 0)
+			(at 28.5833 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14322,7 +14322,7 @@
 	)
 	(global_label "1.8V"
 		(shape input)
-		(at 53.34 27.94 0)
+		(at 53.34 29.21 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14332,7 +14332,7 @@
 		)
 		(uuid "c74d42d9-08ad-4b9b-9299-539ae368c59a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 60.4376 27.94 0)
+			(at 60.4376 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14498,7 +14498,7 @@
 	)
 	(global_label "MISO1"
 		(shape input)
-		(at 41.91 140.97 90)
+		(at 41.91 142.24 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14508,7 +14508,7 @@
 		)
 		(uuid "cd15509a-850f-4d9a-bd13-667c614d723e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 41.91 132.1791 90)
+			(at 41.91 133.4491 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14542,7 +14542,7 @@
 	)
 	(global_label "CLK1"
 		(shape input)
-		(at 39.37 140.97 90)
+		(at 39.37 142.24 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14552,7 +14552,7 @@
 		)
 		(uuid "ce0479b3-178c-49fc-aefe-42f45bd577c7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 39.37 133.2072 90)
+			(at 39.37 134.4772 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14586,7 +14586,7 @@
 	)
 	(global_label "BOOT High"
 		(shape input)
-		(at 57.15 140.97 90)
+		(at 57.15 142.24 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14596,7 +14596,7 @@
 		)
 		(uuid "d07ac988-5df1-47f4-b13d-0fb1f2dd79fc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 57.15 127.8853 90)
+			(at 57.15 129.1553 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14718,7 +14718,7 @@
 	)
 	(global_label "3.3V"
 		(shape input)
-		(at 53.34 30.48 0)
+		(at 53.34 31.75 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14728,7 +14728,7 @@
 		)
 		(uuid "d6b7c448-6192-405f-9634-48f805b4d44f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 60.4376 30.48 0)
+			(at 60.4376 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14850,7 +14850,7 @@
 	)
 	(global_label "MOSI1"
 		(shape input)
-		(at 44.45 140.97 90)
+		(at 44.45 142.24 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14860,7 +14860,7 @@
 		)
 		(uuid "dc479091-45ef-4617-acc1-5298dea5af09")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.45 132.1791 90)
+			(at 44.45 133.4491 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15158,7 +15158,7 @@
 	)
 	(global_label "RADIO CS"
 		(shape input)
-		(at 46.99 140.97 90)
+		(at 46.99 142.24 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15168,7 +15168,7 @@
 		)
 		(uuid "f11c66b6-02e8-4881-9109-6fc1b93d70c1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 46.99 128.9738 90)
+			(at 46.99 130.2438 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15334,7 +15334,7 @@
 	)
 	(global_label "DROGUE OUT"
 		(shape input)
-		(at 40.64 114.3 180)
+		(at 40.64 115.57 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15344,7 +15344,7 @@
 		)
 		(uuid "fa2b1eba-d054-4d41-9bae-ecfaa39707b1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 25.4386 114.3 0)
+			(at 25.4386 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15378,7 +15378,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 40.64 91.44 180)
+		(at 40.64 92.71 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15388,7 +15388,7 @@
 		)
 		(uuid "fdb3c934-29fe-4fc8-ba38-615564d90ab0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 33.7843 91.44 0)
+			(at 33.7843 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15400,7 +15400,7 @@
 	)
 	(global_label "1.8V"
 		(shape input)
-		(at 52.07 64.77 0)
+		(at 52.07 66.04 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15410,7 +15410,7 @@
 		)
 		(uuid "ff2b892c-f761-4ab2-8e58-0c04b1d7ebea")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 59.1676 64.77 0)
+			(at 59.1676 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15444,7 +15444,7 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:EBAA-02-C")
-		(at 43.18 101.6 0)
+		(at 43.18 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15452,7 +15452,7 @@
 		(dnp no)
 		(uuid "0801412e-73f8-4bea-aec2-4da899c6ebcb")
 		(property "Reference" "J4"
-			(at 52.832 96.52 0)
+			(at 52.832 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15461,7 +15461,7 @@
 			)
 		)
 		(property "Value" "EBAA-02-C"
-			(at 48.26 98.044 0)
+			(at 48.26 99.314 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15470,7 +15470,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:EBAA02C"
-			(at 59.69 196.52 0)
+			(at 59.69 197.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15480,7 +15480,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 59.69 296.52 0)
+			(at 59.69 297.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15490,7 +15490,7 @@
 			)
 		)
 		(property "Description" "2 Position Wire to Board Terminal Block Horizontal with Board 0.197\" (5.00mm) Through Hole"
-			(at 43.18 101.6 0)
+			(at 43.18 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15499,7 +15499,7 @@
 			)
 		)
 		(property "Height" "12.8778"
-			(at 59.69 496.52 0)
+			(at 59.69 497.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15509,7 +15509,7 @@
 			)
 		)
 		(property "Mouser Part Number" "737-EBAA-02-C"
-			(at 59.69 596.52 0)
+			(at 59.69 597.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15519,7 +15519,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Adam-Tech/EBAA-02-C?qs=HoCaDK9Nz5eFj%252Bd3MYA6ZA%3D%3D"
-			(at 59.69 696.52 0)
+			(at 59.69 697.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15529,7 +15529,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Adam Tech"
-			(at 59.69 796.52 0)
+			(at 59.69 797.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15539,7 +15539,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "EBAA-02-C"
-			(at 59.69 896.52 0)
+			(at 59.69 897.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15943,7 +15943,7 @@
 	)
 	(symbol
 		(lib_id "Regulator_Linear:AZ1117-3.3")
-		(at 40.64 49.53 0)
+		(at 40.64 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15952,7 +15952,7 @@
 		(fields_autoplaced yes)
 		(uuid "17737506-68ad-48dd-9011-ea8bbbb2055b")
 		(property "Reference" "U4"
-			(at 40.64 43.18 0)
+			(at 40.64 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15960,7 +15960,7 @@
 			)
 		)
 		(property "Value" "AZ1117-3.3"
-			(at 40.64 45.72 0)
+			(at 40.64 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15968,7 +15968,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
-			(at 40.64 43.18 0)
+			(at 40.64 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15978,7 +15978,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AZ1117.pdf"
-			(at 40.64 49.53 0)
+			(at 40.64 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15987,7 +15987,7 @@
 			)
 		)
 		(property "Description" "1A 20V Fixed LDO Linear Regulator, 3.3V, SOT-89/SOT-223/TO-220/TO-252/TO-263"
-			(at 40.64 49.53 0)
+			(at 40.64 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16082,7 +16082,7 @@
 	)
 	(symbol
 		(lib_id "Regulator_Linear:AZ1117-1.8")
-		(at 40.64 64.77 0)
+		(at 40.64 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16091,7 +16091,7 @@
 		(fields_autoplaced yes)
 		(uuid "242387bf-27b8-496b-8fbf-da70a68fee36")
 		(property "Reference" "U3"
-			(at 40.64 58.42 0)
+			(at 40.64 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16099,7 +16099,7 @@
 			)
 		)
 		(property "Value" "AZ1117-1.8"
-			(at 40.64 60.96 0)
+			(at 40.64 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16107,7 +16107,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
-			(at 40.64 58.42 0)
+			(at 40.64 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16117,7 +16117,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AZ1117.pdf"
-			(at 40.64 64.77 0)
+			(at 40.64 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16126,7 +16126,7 @@
 			)
 		)
 		(property "Description" "1A 20V Fixed LDO Linear Regulator, 1.8V, SOT-89/SOT-223/TO-220/TO-252/TO-263"
-			(at 40.64 64.77 0)
+			(at 40.64 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16466,7 +16466,7 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:EBAA-02-C")
-		(at 43.18 114.3 0)
+		(at 43.18 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16474,7 +16474,7 @@
 		(dnp no)
 		(uuid "3564c44e-b738-43a0-af68-bb26de43ab74")
 		(property "Reference" "J5"
-			(at 52.832 109.22 0)
+			(at 52.832 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16483,7 +16483,7 @@
 			)
 		)
 		(property "Value" "EBAA-02-C"
-			(at 48.26 110.744 0)
+			(at 48.26 112.014 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16492,7 +16492,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:EBAA02C"
-			(at 59.69 209.22 0)
+			(at 59.69 210.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16502,7 +16502,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 59.69 309.22 0)
+			(at 59.69 310.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16512,7 +16512,7 @@
 			)
 		)
 		(property "Description" "2 Position Wire to Board Terminal Block Horizontal with Board 0.197\" (5.00mm) Through Hole"
-			(at 43.18 114.3 0)
+			(at 43.18 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16521,7 +16521,7 @@
 			)
 		)
 		(property "Height" "12.8778"
-			(at 59.69 509.22 0)
+			(at 59.69 510.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16531,7 +16531,7 @@
 			)
 		)
 		(property "Mouser Part Number" "737-EBAA-02-C"
-			(at 59.69 609.22 0)
+			(at 59.69 610.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16541,7 +16541,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Adam-Tech/EBAA-02-C?qs=HoCaDK9Nz5eFj%252Bd3MYA6ZA%3D%3D"
-			(at 59.69 709.22 0)
+			(at 59.69 710.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16551,7 +16551,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Adam Tech"
-			(at 59.69 809.22 0)
+			(at 59.69 810.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16561,7 +16561,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "EBAA-02-C"
-			(at 59.69 909.22 0)
+			(at 59.69 910.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17885,7 +17885,7 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:EBAA-02-C")
-		(at 43.18 88.9 0)
+		(at 43.18 90.17 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17893,7 +17893,7 @@
 		(dnp no)
 		(uuid "630a4e4c-8fc4-42cc-88ec-f4602460b32e")
 		(property "Reference" "J2"
-			(at 52.832 83.82 0)
+			(at 52.832 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17902,7 +17902,7 @@
 			)
 		)
 		(property "Value" "EBAA-02-C"
-			(at 48.26 85.344 0)
+			(at 48.26 86.614 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17911,7 +17911,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:EBAA02C"
-			(at 59.69 183.82 0)
+			(at 59.69 185.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17921,7 +17921,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 59.69 283.82 0)
+			(at 59.69 285.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17931,7 +17931,7 @@
 			)
 		)
 		(property "Description" "2 Position Wire to Board Terminal Block Horizontal with Board 0.197\" (5.00mm) Through Hole"
-			(at 43.18 88.9 0)
+			(at 43.18 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17940,7 +17940,7 @@
 			)
 		)
 		(property "Height" "12.8778"
-			(at 59.69 483.82 0)
+			(at 59.69 485.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17950,7 +17950,7 @@
 			)
 		)
 		(property "Mouser Part Number" "737-EBAA-02-C"
-			(at 59.69 583.82 0)
+			(at 59.69 585.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17960,7 +17960,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Adam-Tech/EBAA-02-C?qs=HoCaDK9Nz5eFj%252Bd3MYA6ZA%3D%3D"
-			(at 59.69 683.82 0)
+			(at 59.69 685.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17970,7 +17970,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Adam Tech"
-			(at 59.69 783.82 0)
+			(at 59.69 785.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17980,7 +17980,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "EBAA-02-C"
-			(at 59.69 883.82 0)
+			(at 59.69 885.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18366,7 +18366,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x08")
-		(at 49.53 148.59 270)
+		(at 49.53 149.86 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18375,7 +18375,7 @@
 		(fields_autoplaced yes)
 		(uuid "7fa2d67d-f210-4f5f-b794-d5e4dc0278c6")
 		(property "Reference" "J3"
-			(at 48.26 152.4 90)
+			(at 48.26 153.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18383,7 +18383,7 @@
 			)
 		)
 		(property "Value" "Conn_01x08"
-			(at 48.26 154.94 90)
+			(at 48.26 156.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18391,7 +18391,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Hirose:Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical"
-			(at 49.53 148.59 0)
+			(at 49.53 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18400,7 +18400,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 49.53 148.59 0)
+			(at 49.53 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18409,7 +18409,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 49.53 148.59 0)
+			(at 49.53 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
