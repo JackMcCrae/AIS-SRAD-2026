@@ -8107,28 +8107,10 @@
 		(uuid "43f09c27-5d41-47a7-9dc5-5386c1bf0624")
 	)
 	(junction
-		(at 342.9 93.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "46a37a24-a38e-4eed-bd0c-b4b8a7014000")
-	)
-	(junction
 		(at 342.9 156.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4b26176d-45f3-46d8-9806-173ecb1970d0")
-	)
-	(junction
-		(at 63.5 254)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4c20b41f-89c6-4668-a513-63f663c28ccf")
-	)
-	(junction
-		(at 63.5 242.57)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4f544b3b-5bce-4f0a-b531-40b8547ed3a2")
 	)
 	(junction
 		(at 93.98 231.14)
@@ -8263,12 +8245,6 @@
 		(uuid "a56a6664-d4ca-448b-85b2-96bbc10337e3")
 	)
 	(junction
-		(at 342.9 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "aa7f8a04-c81f-4706-8951-39371940f3e9")
-	)
-	(junction
 		(at 78.74 231.14)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8291,6 +8267,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bea921fb-6bae-4469-b923-d171c1f2dc9e")
+	)
+	(junction
+		(at 124.46 254)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c00ec672-cb30-409c-8354-f0218ad6efc6")
 	)
 	(junction
 		(at 66.04 231.14)
@@ -8363,6 +8345,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e4dd13a1-6a2a-4ddd-acec-b0daf77261e5")
+	)
+	(junction
+		(at 111.76 254)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e619c1bf-7783-4a7d-8d8f-d5b8c1c27078")
 	)
 	(junction
 		(at 139.7 254)
@@ -8662,7 +8650,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 242.57) (xy 124.46 265.43)
+			(xy 124.46 242.57) (xy 124.46 254)
 		)
 		(stroke
 			(width 0)
@@ -8679,16 +8667,6 @@
 			(type default)
 		)
 		(uuid "0524191d-217b-41ac-ae01-3ac9cd8460c3")
-	)
-	(wire
-		(pts
-			(xy 50.8 227.33) (xy 50.8 242.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0531dba6-6a49-47cb-9689-51e5b94f1deb")
 	)
 	(wire
 		(pts
@@ -8839,16 +8817,6 @@
 			(type default)
 		)
 		(uuid "14c86327-1a8b-4f66-bc91-436b4ec544fc")
-	)
-	(wire
-		(pts
-			(xy 63.5 242.57) (xy 63.5 254)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "15615e33-ec98-488b-b36f-64b689b15a07")
 	)
 	(wire
 		(pts
@@ -9092,16 +9060,6 @@
 	)
 	(wire
 		(pts
-			(xy 368.3 97.79) (xy 374.65 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2eb42b68-65e3-4d5c-b3f5-01ecb56c4e53")
-	)
-	(wire
-		(pts
 			(xy 368.3 125.73) (xy 374.65 125.73)
 		)
 		(stroke
@@ -9329,26 +9287,6 @@
 			(type default)
 		)
 		(uuid "3e30fb00-da1d-405c-bb15-5f4fa60b6f82")
-	)
-	(wire
-		(pts
-			(xy 63.5 227.33) (xy 63.5 242.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3e8bd705-5474-405a-8002-ecf493c261ec")
-	)
-	(wire
-		(pts
-			(xy 363.22 105.41) (xy 368.3 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3f99320e-8182-4b92-883f-48e4ae4927b9")
 	)
 	(wire
 		(pts
@@ -9632,16 +9570,6 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 82.55) (xy 342.9 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "60534b9e-5d9e-4d6f-9315-98116cae9bd1")
-	)
-	(wire
-		(pts
 			(xy 109.22 227.33) (xy 109.22 231.14)
 		)
 		(stroke
@@ -9882,13 +9810,13 @@
 	)
 	(wire
 		(pts
-			(xy 368.3 86.36) (xy 374.65 86.36)
+			(xy 124.46 254) (xy 124.46 265.43)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "72fbdd34-2784-458b-bb90-b3825c03222c")
+		(uuid "728ce187-de56-4f67-9492-f365074d7605")
 	)
 	(wire
 		(pts
@@ -10172,16 +10100,6 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 93.98) (xy 347.98 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8be2a398-1f14-4730-9fca-5e7d4160519e")
-	)
-	(wire
-		(pts
 			(xy 342.9 144.78) (xy 342.9 156.21)
 		)
 		(stroke
@@ -10272,7 +10190,7 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 93.98) (xy 342.9 105.41)
+			(xy 342.9 82.55) (xy 342.9 116.84)
 		)
 		(stroke
 			(width 0)
@@ -10339,6 +10257,16 @@
 			(type default)
 		)
 		(uuid "9d1c044b-f48b-4c79-9c8c-1ab52b006864")
+	)
+	(wire
+		(pts
+			(xy 111.76 254) (xy 111.76 265.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fef2404-c6ec-4235-8587-fc656b9fa570")
 	)
 	(wire
 		(pts
@@ -10529,16 +10457,6 @@
 			(type default)
 		)
 		(uuid "b2496bdd-39bc-4d58-9ab4-45eaffae7389")
-	)
-	(wire
-		(pts
-			(xy 363.22 93.98) (xy 368.3 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b397a26b-c2e2-4d71-acf6-9250c355ba69")
 	)
 	(wire
 		(pts
@@ -10772,16 +10690,6 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 105.41) (xy 342.9 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c4f3994c-4c88-41da-8152-c9c38afa134b")
-	)
-	(wire
-		(pts
 			(xy 137.16 78.74) (xy 142.24 78.74)
 		)
 		(stroke
@@ -10982,7 +10890,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 254) (xy 63.5 265.43)
+			(xy 63.5 227.33) (xy 63.5 265.43)
 		)
 		(stroke
 			(width 0)
@@ -11012,16 +10920,6 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 105.41) (xy 347.98 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "db01eba3-509d-4877-9f4a-06cf18687d20")
-	)
-	(wire
-		(pts
 			(xy 49.53 66.04) (xy 49.53 71.12)
 		)
 		(stroke
@@ -11042,7 +10940,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 242.57) (xy 111.76 265.43)
+			(xy 111.76 242.57) (xy 111.76 254)
 		)
 		(stroke
 			(width 0)
@@ -11848,7 +11746,7 @@
 			)
 		)
 	)
-	(global_label "Vsrc"
+	(global_label "3.3V"
 		(shape input)
 		(at 336.55 35.56 180)
 		(fields_autoplaced yes)
@@ -11860,7 +11758,7 @@
 		)
 		(uuid "12ab3f00-2c01-4463-98bc-d7c59b890055")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 329.5733 35.56 0)
+			(at 329.4524 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12200,7 +12098,7 @@
 			)
 		)
 	)
-	(global_label "Vsrc"
+	(global_label "3.3V"
 		(shape input)
 		(at 372.11 53.34 0)
 		(fields_autoplaced yes)
@@ -12212,7 +12110,7 @@
 		)
 		(uuid "241cc923-0724-42e1-bc14-63ce07e3cb81")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 379.0867 53.34 0)
+			(at 379.2076 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12794,28 +12692,6 @@
 			)
 		)
 	)
-	(global_label "DROGUE OUT"
-		(shape input)
-		(at 374.65 97.79 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4e03e401-2cec-4245-bd9d-bcbfa810db30")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 389.8514 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "NAND0"
 		(shape input)
 		(at 86.36 99.06 180)
@@ -12884,28 +12760,6 @@
 	)
 	(global_label "3.3V"
 		(shape input)
-		(at 50.8 227.33 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "5f559f3e-81fb-4dcb-99e6-0205d109817e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 50.8 220.2324 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Vsrc"
-		(shape input)
 		(at 372.11 35.56 0)
 		(fields_autoplaced yes)
 		(effects
@@ -12916,7 +12770,7 @@
 		)
 		(uuid "63460917-1fd5-4c28-9fd1-97b34434f51f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 379.0867 35.56 0)
+			(at 379.2076 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13806,7 +13660,7 @@
 			)
 		)
 	)
-	(global_label "Vsrc"
+	(global_label "3.3V"
 		(shape input)
 		(at 336.55 53.34 180)
 		(fields_autoplaced yes)
@@ -13818,7 +13672,7 @@
 		)
 		(uuid "b737d710-0cb6-4708-9dc8-fff0e0446cb5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 329.5733 53.34 0)
+			(at 329.4524 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13995,28 +13849,6 @@
 		(uuid "c48479bf-82da-4c9d-80ab-13d834e4f023")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 227.33 172.5167 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MAIN OUT"
-		(shape input)
-		(at 374.65 86.36 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c4e3d50c-68a0-46c8-baaa-666119a1071f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 386.7067 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15243,126 +15075,6 @@
 			(project "AIS IREC 2026 FC"
 				(path "/bddf67fc-9eaf-4396-b5e1-b8d070d107e3"
 					(reference "J4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SamacSys_Parts:598-8D91-127F")
-		(at 347.98 105.41 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0b0700c6-292b-48d9-acae-f4a0cc30a7fe")
-		(property "Reference" "LED3"
-			(at 355.6 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "598-8D91-127F"
-			(at 355.6 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:5988D91127F"
-			(at 360.68 199.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://s3-us-west-2.amazonaws.com/catsy.557/C18784.pdf"
-			(at 360.68 299.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Description" "598 SMD LED 0605 Right Angle pkg Blue 7\" Reel"
-			(at 347.98 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "0.762"
-			(at 360.68 499.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 360.68 599.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 360.68 699.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Dialight"
-			(at 360.68 799.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "598-8D91-127F"
-			(at 360.68 899.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e1dff5fb-a9c2-4673-80cd-a50450df27f7")
-		)
-		(pin "1"
-			(uuid "fe89f89b-61f4-473f-bab5-17be18375f64")
-		)
-		(instances
-			(project "AIS IREC 2026 FC"
-				(path "/bddf67fc-9eaf-4396-b5e1-b8d070d107e3"
-					(reference "LED3")
 					(unit 1)
 				)
 			)
@@ -17823,126 +17535,6 @@
 		)
 	)
 	(symbol
-		(lib_id "SamacSys_Parts:598-8D91-127F")
-		(at 347.98 93.98 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4a2d8283-8183-4064-8895-90bf3164c1bd")
-		(property "Reference" "LED2"
-			(at 355.6 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "598-8D91-127F"
-			(at 355.6 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:5988D91127F"
-			(at 360.68 187.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://s3-us-west-2.amazonaws.com/catsy.557/C18784.pdf"
-			(at 360.68 287.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Description" "598 SMD LED 0605 Right Angle pkg Blue 7\" Reel"
-			(at 347.98 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "0.762"
-			(at 360.68 487.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 360.68 587.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 360.68 687.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Dialight"
-			(at 360.68 787.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "598-8D91-127F"
-			(at 360.68 887.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a7abf45a-88fa-46b2-a36c-04366c9b5f05")
-		)
-		(pin "1"
-			(uuid "90953b15-8e73-4a1e-809f-b652f11b0332")
-		)
-		(instances
-			(project "AIS IREC 2026 FC"
-				(path "/bddf67fc-9eaf-4396-b5e1-b8d070d107e3"
-					(reference "LED2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "SamacSys_Parts:GRM022R61A104KE01L")
 		(at 81.28 231.14 0)
 		(unit 1)
@@ -18063,126 +17655,6 @@
 		)
 	)
 	(symbol
-		(lib_id "SamacSys_Parts:GRM022R61A104KE01L")
-		(at 50.8 242.57 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "55223a8a-eee6-47d4-b7e8-c8c4ecc71fe9")
-		(property "Reference" "C24"
-			(at 57.15 234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100nF"
-			(at 57.15 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:GRM022C81C222KE01L"
-			(at 59.69 338.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM022R61A104KE01-01A.pdf"
-			(at 59.69 438.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "Capacitor Ceramic Multilayer (MLCC)"
-			(at 50.8 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "0.22"
-			(at 59.69 638.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "81-GRM022R61A104KE1L"
-			(at 59.69 738.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM022R61A104KE01L?qs=d0WKAl%252BL4KbGNEA7c9Dbcw%3D%3D"
-			(at 59.69 838.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Murata Electronics"
-			(at 59.69 938.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "GRM022R61A104KE01L"
-			(at 59.69 1038.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "feb14bc5-d00a-40de-a659-fc2ac94e0175")
-		)
-		(pin "1"
-			(uuid "00b1e16b-420e-4617-ab0f-b770a4b1c33e")
-		)
-		(instances
-			(project "AIS IREC 2026 FC"
-				(path "/bddf67fc-9eaf-4396-b5e1-b8d070d107e3"
-					(reference "C24")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 175.26 52.07 0)
 		(unit 1)
@@ -18243,73 +17715,6 @@
 			(project "AIS IREC 2026 FC"
 				(path "/bddf67fc-9eaf-4396-b5e1-b8d070d107e3"
 					(reference "#PWR019")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 368.3 90.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "56e95391-5395-4085-a42a-82b05583a8ce")
-		(property "Reference" "R4"
-			(at 371.094 90.17 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10KR"
-			(at 366.014 90.17 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 366.522 90.17 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 368.3 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 368.3 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "451a41cc-37f2-4a17-ba16-b880012f9d42")
-		)
-		(pin "2"
-			(uuid "087584ab-0565-4788-a83c-189ef8b50cac")
-		)
-		(instances
-			(project "AIS IREC 2026 FC"
-				(path "/bddf67fc-9eaf-4396-b5e1-b8d070d107e3"
-					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -21258,126 +20663,6 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:GRM022R61A104KE01L")
-		(at 50.8 254 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a58aed2f-6b52-4da1-9893-837c83b4ecb8")
-		(property "Reference" "C25"
-			(at 57.15 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100nF"
-			(at 57.15 248.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:GRM022C81C222KE01L"
-			(at 59.69 350.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM022R61A104KE01-01A.pdf"
-			(at 59.69 450.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "Capacitor Ceramic Multilayer (MLCC)"
-			(at 50.8 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "0.22"
-			(at 59.69 650.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "81-GRM022R61A104KE1L"
-			(at 59.69 750.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM022R61A104KE01L?qs=d0WKAl%252BL4KbGNEA7c9Dbcw%3D%3D"
-			(at 59.69 850.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Murata Electronics"
-			(at 59.69 950.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "GRM022R61A104KE01L"
-			(at 59.69 1050.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "91c545b2-a6e1-4ca3-bade-4e26e344c51a")
-		)
-		(pin "1"
-			(uuid "bdced132-9e4b-4411-88f6-bd6a5be8585d")
-		)
-		(instances
-			(project "AIS IREC 2026 FC"
-				(path "/bddf67fc-9eaf-4396-b5e1-b8d070d107e3"
-					(reference "C25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SamacSys_Parts:GRM022R61A104KE01L")
 		(at 81.28 276.86 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -22842,73 +22127,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 368.3 101.6 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d06df025-b2c7-4b81-bdd4-ca4cf44ca79f")
-		(property "Reference" "R6"
-			(at 371.094 101.6 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10KR"
-			(at 366.014 101.6 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 366.522 101.6 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 368.3 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 368.3 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "09235db9-c0c6-47dc-8d1f-3be5018e2a95")
-		)
-		(pin "2"
-			(uuid "16df421e-b14e-42b0-ae32-04e1da0c25fc")
-		)
-		(instances
-			(project "AIS IREC 2026 FC"
-				(path "/bddf67fc-9eaf-4396-b5e1-b8d070d107e3"
-					(reference "R6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "SamacSys_Parts:GRM022R61A104KE01L")
 		(at 66.04 242.57 0)
 		(unit 1)
@@ -24138,6 +23356,126 @@
 			(project "AIS IREC 2026 FC"
 				(path "/bddf67fc-9eaf-4396-b5e1-b8d070d107e3"
 					(reference "#PWR024")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:GRM022R61A104KE01L")
+		(at 111.76 254 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eaabf67c-d4d7-4ba1-b7f5-308cea9742f8")
+		(property "Reference" "C23"
+			(at 118.11 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100nF"
+			(at 118.11 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:GRM022C81C222KE01L"
+			(at 120.65 350.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM022R61A104KE01-01A.pdf"
+			(at 120.65 450.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Capacitor Ceramic Multilayer (MLCC)"
+			(at 111.76 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.22"
+			(at 120.65 650.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "81-GRM022R61A104KE1L"
+			(at 120.65 750.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM022R61A104KE01L?qs=d0WKAl%252BL4KbGNEA7c9Dbcw%3D%3D"
+			(at 120.65 850.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata Electronics"
+			(at 120.65 950.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM022R61A104KE01L"
+			(at 120.65 1050.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a8dc88f7-5f76-4e35-8188-94d05c41927d")
+		)
+		(pin "1"
+			(uuid "f40a1800-2f9c-49d6-bb92-e5e85b2a579b")
+		)
+		(instances
+			(project "AIS IREC 2026 FC"
+				(path "/bddf67fc-9eaf-4396-b5e1-b8d070d107e3"
+					(reference "C23")
 					(unit 1)
 				)
 			)
