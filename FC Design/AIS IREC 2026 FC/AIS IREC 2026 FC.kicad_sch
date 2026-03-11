@@ -7331,7 +7331,7 @@
 		(uuid "a56a6664-d4ca-448b-85b2-96bbc10337e3")
 	)
 	(junction
-		(at 78.74 231.14)
+		(at 78.74 242.57)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ace7acdf-5f52-4ae7-88c6-2d188cd99912")
@@ -7355,7 +7355,7 @@
 		(uuid "c00ec672-cb30-409c-8354-f0218ad6efc6")
 	)
 	(junction
-		(at 66.04 231.14)
+		(at 66.04 242.57)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c04c130b-df72-40f1-98f7-c5ca3ede41a4")
@@ -8306,7 +8306,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 231.14) (xy 66.04 254)
+			(xy 66.04 242.57) (xy 66.04 254)
 		)
 		(stroke
 			(width 0)
@@ -8416,7 +8416,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 227.33) (xy 109.22 265.43)
+			(xy 109.22 261.62) (xy 109.22 265.43)
 		)
 		(stroke
 			(width 0)
@@ -8626,7 +8626,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 231.14) (xy 78.74 254)
+			(xy 78.74 242.57) (xy 78.74 254)
 		)
 		(stroke
 			(width 0)
@@ -8646,7 +8646,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 227.33) (xy 66.04 231.14)
+			(xy 66.04 238.76) (xy 66.04 242.57)
 		)
 		(stroke
 			(width 0)
@@ -9026,7 +9026,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 227.33) (xy 78.74 231.14)
+			(xy 78.74 238.76) (xy 78.74 242.57)
 		)
 		(stroke
 			(width 0)
@@ -9666,7 +9666,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 227.33) (xy 96.52 265.43)
+			(xy 96.52 261.62) (xy 96.52 265.43)
 		)
 		(stroke
 			(width 0)
@@ -10256,7 +10256,7 @@
 	)
 	(global_label "3.3V"
 		(shape input)
-		(at 66.04 227.33 90)
+		(at 66.04 238.76 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10266,7 +10266,7 @@
 		)
 		(uuid "16d02602-2388-42e8-bf15-6a1dfeb8ef60")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 66.04 220.2324 90)
+			(at 66.04 231.6624 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11332,7 +11332,7 @@
 			)
 		)
 	)
-	(global_label "Vsrc"
+	(global_label "3.3V"
 		(shape input)
 		(at 52.07 142.24 90)
 		(fields_autoplaced yes)
@@ -11344,7 +11344,7 @@
 		)
 		(uuid "7e96cc1d-94b1-4838-a4d3-aeb286c65947")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 52.07 135.2633 90)
+			(at 52.07 135.1424 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11642,7 +11642,7 @@
 	)
 	(global_label "3.3V"
 		(shape input)
-		(at 96.52 227.33 90)
+		(at 96.52 261.62 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11652,7 +11652,7 @@
 		)
 		(uuid "a3e3bd03-6f1c-4575-a20a-c435486b797f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.52 220.2324 90)
+			(at 96.52 254.5224 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12885,7 +12885,7 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:GRM022R61A104KE01L")
-		(at 66.04 231.14 0)
+		(at 66.04 242.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12894,7 +12894,7 @@
 		(fields_autoplaced yes)
 		(uuid "0d8df7b8-9181-4a2d-a240-6e6f40a081ad")
 		(property "Reference" "C1"
-			(at 72.39 223.52 0)
+			(at 72.39 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12902,7 +12902,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 72.39 226.06 0)
+			(at 72.39 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12910,7 +12910,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:GRM022C81C222KE01L"
-			(at 74.93 327.33 0)
+			(at 74.93 338.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12920,7 +12920,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM022R61A104KE01-01A.pdf"
-			(at 74.93 427.33 0)
+			(at 74.93 438.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12930,7 +12930,7 @@
 			)
 		)
 		(property "Description" "Capacitor Ceramic Multilayer (MLCC)"
-			(at 66.04 231.14 0)
+			(at 66.04 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12939,7 +12939,7 @@
 			)
 		)
 		(property "Height" "0.22"
-			(at 74.93 627.33 0)
+			(at 74.93 638.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12949,7 +12949,7 @@
 			)
 		)
 		(property "Mouser Part Number" "81-GRM022R61A104KE1L"
-			(at 74.93 727.33 0)
+			(at 74.93 738.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12959,7 +12959,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM022R61A104KE01L?qs=d0WKAl%252BL4KbGNEA7c9Dbcw%3D%3D"
-			(at 74.93 827.33 0)
+			(at 74.93 838.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12969,7 +12969,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Murata Electronics"
-			(at 74.93 927.33 0)
+			(at 74.93 938.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12979,7 +12979,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GRM022R61A104KE01L"
-			(at 74.93 1027.33 0)
+			(at 74.93 1038.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14077,7 +14077,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 78.74 227.33 180)
+		(at 78.74 238.76 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14086,7 +14086,7 @@
 		(fields_autoplaced yes)
 		(uuid "2d2d261b-ba1a-4114-a166-b49b9238f86a")
 		(property "Reference" "#PWR06"
-			(at 78.74 220.98 0)
+			(at 78.74 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14095,7 +14095,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 78.74 222.25 0)
+			(at 78.74 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14103,7 +14103,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 78.74 227.33 0)
+			(at 78.74 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14112,7 +14112,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 78.74 227.33 0)
+			(at 78.74 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14121,7 +14121,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 78.74 227.33 0)
+			(at 78.74 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16021,7 +16021,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 109.22 227.33 180)
+		(at 109.22 261.62 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16030,7 +16030,7 @@
 		(fields_autoplaced yes)
 		(uuid "6921a891-d895-4f34-8d8a-7961e69646f0")
 		(property "Reference" "#PWR08"
-			(at 109.22 220.98 0)
+			(at 109.22 255.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16039,7 +16039,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 109.22 222.25 0)
+			(at 109.22 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16047,7 +16047,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 109.22 227.33 0)
+			(at 109.22 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16056,7 +16056,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 227.33 0)
+			(at 109.22 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16065,7 +16065,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 109.22 227.33 0)
+			(at 109.22 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
