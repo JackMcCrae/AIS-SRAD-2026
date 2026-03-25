@@ -1,4 +1,4 @@
-24231491198784233
+24240363004784981
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63888,6 +63888,41 @@ THT
 0
 4
 2
+JLC FOOTPRINT FILES
+LED0603-RD
+
+
+0
+2
+2
+JLC FOOTPRINT FILES
+MLT-9650
+
+
+0
+2
+2
+JLC FOOTPRINT FILES
+MR ACCELEROMETER
+
+
+0
+12
+12
+JLC FOOTPRINT FILES
+NAND FLASH
+
+
+0
+18
+9
+JLC FOOTPRINT FILES
+USB 310F B
+
+
+0
+16
+16
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
