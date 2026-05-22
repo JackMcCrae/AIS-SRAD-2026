@@ -36,7 +36,25 @@ extern "C" {
 
 /* Exported types ------------------------------------------------------------*/
 /* USER CODE BEGIN ET */
+typedef struct {
+    int16_t x_raw;
+    int16_t y_raw;
+    int16_t z_raw;
 
+    float x_g;
+    float y_g;
+    float z_g;
+
+    float magnitude_g;
+} ADXL314_Data;
+typedef struct {
+    uint32_t D1;
+    uint32_t D2;
+
+    float pressure_mbar;
+    float temperature_c;
+    float altitude_m;
+} MS5607_Data;
 /* USER CODE END ET */
 
 /* Exported constants --------------------------------------------------------*/
@@ -53,7 +71,10 @@ extern "C" {
 void Error_Handler(void);
 
 /* USER CODE BEGIN EFP */
-
+uint8_t ADXL314_Init(void);
+uint8_t ADXL314_ReadXYZ(ADXL314_Data *data);
+uint8_t MS5607_Init(void);
+uint8_t MS5607_Read(MS5607_Data *data);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
